@@ -26,13 +26,5 @@ A solução utiliza o algoritmo de **backtracking**, que funciona da seguinte fo
 3. Se for válida, avança para a próxima linha
 4. Se não houver solução, **retrocede (backtrack)** e tenta outra posição
 
----
-
-## ⚙️ Como Executar
-
-### Pré-requisitos
-- Compilador C++ (g++, clang, etc.)
-
-### Compilação
-```bash
-g++ main.cpp -o nqueens
+## 🎥 Demonstração
+![Demonstração](./n-queens.gif)
