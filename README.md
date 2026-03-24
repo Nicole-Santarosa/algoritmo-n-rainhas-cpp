@@ -28,3 +28,7 @@ A solução utiliza o algoritmo de **backtracking**, que funciona da seguinte fo
 
 ## 🎥 Demonstração
 ![Demonstração](./n-queens.gif)
+
+## 👩‍💻 Autora
+
+Projeto desenvolvido por **Nicole Santarosa** como parte de estudos em **Ciência da Computação**.
